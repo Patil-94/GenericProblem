@@ -1,0 +1,7 @@
+C:\Users\Radha\source\repos\GenericsProgram\GenericsProgram\bin\Debug\GenericsProgram.exe.config
+C:\Users\Radha\source\repos\GenericsProgram\GenericsProgram\bin\Debug\GenericsProgram.exe
+C:\Users\Radha\source\repos\GenericsProgram\GenericsProgram\bin\Debug\GenericsProgram.pdb
+C:\Users\Radha\source\repos\GenericsProgram\GenericsProgram\obj\Debug\GenericsProgram.csprojAssemblyReference.cache
+C:\Users\Radha\source\repos\GenericsProgram\GenericsProgram\obj\Debug\GenericsProgram.csproj.CoreCompileInputs.cache
+C:\Users\Radha\source\repos\GenericsProgram\GenericsProgram\obj\Debug\GenericsProgram.exe
+C:\Users\Radha\source\repos\GenericsProgram\GenericsProgram\obj\Debug\GenericsProgram.pdb
